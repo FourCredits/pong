@@ -1,0 +1,52 @@
+Game	/home/erik/Projects/pong/app/Main.hs	43;"	d
+PongGame	/home/erik/Projects/pong/app/Main.hs	42;"	t
+Position	/home/erik/Projects/pong/app/Main.hs	100;"	t
+Radius	/home/erik/Projects/pong/app/Main.hs	99;"	t
+background	/home/erik/Projects/pong/app/Main.hs	17;"	v
+ballLoc	/home/erik/Projects/pong/app/Main.hs	44;"	v
+ballRadius	/home/erik/Projects/pong/app/Main.hs	102;"	v
+ballVel	/home/erik/Projects/pong/app/Main.hs	45;"	v
+bindir	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	32;"	v	file:
+catchIO	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	26;"	v	file:
+clamp	/home/erik/Projects/pong/app/Main.hs	162;"	v
+datadir	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	35;"	v	file:
+drawing	/home/erik/Projects/pong/app/Main.hs	24;"	v
+dynlibdir	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	34;"	v	file:
+fps	/home/erik/Projects/pong/app/Main.hs	97;"	v
+getBinDir	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	40;"	v
+getDataDir	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	43;"	v
+getDataFileName	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	48;"	v
+getDynLibDir	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	42;"	v
+getLibDir	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	41;"	v
+getLibexecDir	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	44;"	v
+getSysconfDir	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	45;"	v
+handleKeys	/home/erik/Projects/pong/app/Main.hs	172;"	v
+height	/home/erik/Projects/pong/app/Main.hs	10;"	v
+initialState	/home/erik/Projects/pong/app/Main.hs	55;"	v
+libdir	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	33;"	v	file:
+libexecdir	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	36;"	v	file:
+main	/home/erik/Projects/pong/app/Main.hs	186;"	v
+moveBall	/home/erik/Projects/pong/app/Main.hs	90;"	v
+movePaddle	/home/erik/Projects/pong/app/Main.hs	165;"	v
+movePaddles	/home/erik/Projects/pong/app/Main.hs	148;"	v
+offset	/home/erik/Projects/pong/app/Main.hs	11;"	v
+outOfBounds	/home/erik/Projects/pong/app/Main.hs	142;"	v
+p1Moving	/home/erik/Projects/pong/app/Main.hs	49;"	v
+p2Moving	/home/erik/Projects/pong/app/Main.hs	50;"	v
+paddleBounce	/home/erik/Projects/pong/app/Main.hs	134;"	v
+paddleCollision	/home/erik/Projects/pong/app/Main.hs	119;"	v
+paddleHeight	/home/erik/Projects/pong/app/Main.hs	20;"	v
+paddleSpeed	/home/erik/Projects/pong/app/Main.hs	159;"	v
+paddleWidth	/home/erik/Projects/pong/app/Main.hs	21;"	v
+paused	/home/erik/Projects/pong/app/Main.hs	48;"	v
+player1	/home/erik/Projects/pong/app/Main.hs	46;"	v
+player2	/home/erik/Projects/pong/app/Main.hs	47;"	v
+render	/home/erik/Projects/pong/app/Main.hs	67;"	v
+someFunc	/home/erik/Projects/pong/src/Lib.hs	6;"	v
+sysconfdir	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	37;"	v	file:
+update	/home/erik/Projects/pong/app/Main.hs	151;"	v
+version	/home/erik/Projects/pong/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_pong.hs	29;"	v
+wallBounce	/home/erik/Projects/pong/app/Main.hs	111;"	v
+wallColision	/home/erik/Projects/pong/app/Main.hs	105;"	v
+width	/home/erik/Projects/pong/app/Main.hs	9;"	v
+window	/home/erik/Projects/pong/app/Main.hs	14;"	v
