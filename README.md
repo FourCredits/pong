@@ -23,3 +23,4 @@ everywhere
 - [ ] Move more magic constants to the Configuration file.
 - [ ] Make the paddles unable to overlap with the walls at the top and bottom
 - [ ] Put comments places
+- [ ] Tests?
